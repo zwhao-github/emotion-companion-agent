@@ -1,0 +1,4 @@
+main_prompt_path: prompts/main_prompt_depression_companion.txt
+rag_summarize_prompt_path: prompts/rag_summarize_depression.txt
+report_prompt_path: prompts/report_prompt_depression.txt
+crisis_prompt_path: prompts/crisis_prompt_depression.txt
